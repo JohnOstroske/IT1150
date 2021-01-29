@@ -1,0 +1,55 @@
+body
+{
+	background-image: linear-gradient(HoneyDew, Ivory, HoneyDew);
+}
+
+img
+{
+	border: 2px solid Navy;
+	border-radius: 4px;
+}
+
+hr
+{
+	color: Navy;
+}
+
+p
+{
+	font-size: large;
+	color: DarkSlateGray;
+}
+
+h1
+{
+	color: GoldenRod;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: Navy;
+}
+
+h3
+{
+	color: Navy;
+}
+
+li
+{
+	font-size: x-large;
+}
+
+.even
+{
+	color: GoldenRod;
+}
+
+.odd
+{
+	color: Navy;
+}
+
+.imgLogo
+{
+	float: left;
+	width: 200px;
+	margin-right: 20px;
+}
